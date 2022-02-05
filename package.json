@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://pawarsatish8292.github.io/resturant",
+  "homepage": "https://pawarsatish8292.github.io/resturantapp",
   "eslintConfig": {
     "extends": [
       "react-app",
